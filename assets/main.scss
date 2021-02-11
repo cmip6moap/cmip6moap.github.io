@@ -1,0 +1,91 @@
+---
+---
+
+$content-width: 1200px;
+
+@import "minima";
+
+.site-header {
+    background: #1d1d1d;
+    border: none;
+    color: #c3c3c3;
+}
+
+.site-nav {
+    @include media-query($on-palm) {
+        margin-top: 12px;
+    }
+
+    .page-link {
+        color: #bbdd11;
+        line-height: 80px;
+
+        &:hover {
+            text-decoration: none;
+            span {
+                text-decoration: underline;
+            }
+        }
+
+        @include media-query($on-palm) {
+            line-height: 40px;
+        }
+    }
+}
+
+.site-title {
+    &, &:visited {
+        display: block;
+        background: no-repeat center left url(logo.png);
+        background-size: 60px;
+        padding-left: 70px;
+        line-height: 80px;
+        color: #fff;
+        font-weight: 500;
+    }
+}
+
+.lead {
+    margin-bottom: $spacing-unit;
+    padding: 0.85*$spacing-unit 0.75*$spacing-unit;
+    background: #f0f0f0;
+    @include relative-font-size(1.25);
+    @include media-query($on-laptop) {
+        @include relative-font-size(1.125);
+    }
+}
+
+.aside {
+    margin: 0.5*$spacing-unit 0 0.5*$spacing-unit 0.5*$spacing-unit;
+    padding: 0.85*$spacing-unit 0.75*$spacing-unit;
+    background: #f0f0f0;
+    @include relative-font-size(1.25);
+    @include media-query($on-laptop) {
+        @include relative-font-size(1.125);
+    }
+    
+    float: right;
+    width: 35%;
+    @include media-query($on-palm) {
+        float: none;
+        width: unset;
+        margin-left: 0;
+    }
+}
+
+dl {
+    dt {
+        margin-top: 0.5*$spacing-unit;
+        font-weight: 600;
+    }
+
+    dd {
+        padding-left: 0.25*$spacing-unit;
+    }
+}
+
+.icon-list {
+    @extend .social-media-list;
+}
+
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.3.0/font/bootstrap-icons.css");

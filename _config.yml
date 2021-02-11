@@ -1,1 +1,23 @@
-theme: jekyll-theme-cayman
+title: MOAP CMIP6 Hackathon
+author:
+  a
+  [Met Office Academic Partnership](/about/)<br>
+  [Jean Golding Institute](https://www.bristol.ac.uk/golding/)<br>
+  [Cabot Institute](https://www.bristol.ac.uk/cabot/)
+description:
+  The Met Office Academic Partnership is a cluster of research excellence that
+  brings together the Met Office and leaders in weather and climate science
+  (Universities of [Bristol](https://www.bristol.ac.uk),
+  [Exeter](https://www.exeter.ac.uk), [Leeds](https://www.leeds.ac.uk),
+  [Oxford](https://www.ox.ac.uk) and [Reading](https://www.reading.ac.uk) and
+  [UCL](https://www.ucl.ac.uk)). [More info](/about/).
+url: "https://cmip6moap.github.io"
+github_username: cmip6moap 
+theme: minima
+header_pages:
+  - registration.md
+  - projects.md
+  - agenda.md
+  - resources.md
+  - about.md
+
