@@ -26,7 +26,13 @@ $content-width: 1200px;
                 text-decoration: underline;
             }
         }
-
+        
+        &.active {
+            color: #fff;
+            font-weight: 600;
+            pointer-events: none;
+        }
+        
         @include media-query($on-palm) {
             line-height: 40px;
         }
@@ -44,6 +50,10 @@ $content-width: 1200px;
     
     &, &:visited {
         color: #fff;
+    }
+    
+    &.active {
+        pointer-events: none;
     }
 
     @include media-query($on-palm) {
