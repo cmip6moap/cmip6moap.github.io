@@ -2,6 +2,7 @@
 ---
 
 $content-width: 1200px;
+$brand-color: #bbdd11;
 
 @import "minima";
 
@@ -17,9 +18,14 @@ $content-width: 1200px;
     }
 
     .page-link {
-        color: #bbdd11;
+        color: $brand-color;
         line-height: 80px;
-
+        
+        @include media-query($on-palm) {
+            color: darken($brand-color, $amount: 10);
+            line-height: 40px;
+        }
+        
         &:hover {
             text-decoration: none;
             span {
@@ -31,10 +37,10 @@ $content-width: 1200px;
             color: #fff;
             font-weight: 600;
             pointer-events: none;
-        }
-        
-        @include media-query($on-palm) {
-            line-height: 40px;
+
+            @include media-query($on-palm) {
+                color: #000;
+            }
         }
     }
 }
