@@ -10,6 +10,7 @@ $header-brand-color: #bbdd11;
     background: #1d1d1d;
     border: none;
     color: #c3c3c3;
+    min-height: 80px;
 }
 
 .site-nav {
@@ -66,9 +67,8 @@ $header-brand-color: #bbdd11;
         margin-right: 50px;
     }
 
-    @include media-query(360px) {
-        background: none;
-        padding-left: 0;
+    @include media-query(484px) {
+        line-height: 40px;
     }
 }
 

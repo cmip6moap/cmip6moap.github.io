@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Met Office Academic Partnership CMIP6 Data Hackathon
+title: Bristol – Met Office CMIP6 Data Hackathon
 menu_title: Home
 menu_icon: house-door
 ---

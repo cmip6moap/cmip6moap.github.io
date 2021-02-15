@@ -1,10 +1,7 @@
-title: MOAP CMIP6 Hackathon
-menu_title: MOAP CMIP6 Hack<span class="hide-mobile">athon<span>
-author:
-  a
-  [Met Office Academic Partnership](/about/)<br>
-  [Jean Golding Institute](https://www.bristol.ac.uk/golding/)<br>
-  [Cabot Institute](https://www.bristol.ac.uk/cabot/)
+title: Bristol – Met Office CMIP6 Hackathon
+menu_title: Bristol – Met Office CMIP6 Hack<span class="hide-mobile">athon<span>
+author: University of Bristol Jean Golding Institute & Cabot Institute, 
+  Met Office Academic Partnership
 description:
   The Met Office Academic Partnership is a cluster of research excellence that
   brings together the Met Office and leaders in weather and climate science
@@ -21,4 +18,3 @@ header_pages:
   - agenda.md
   - resources.md
   - about.md
-
