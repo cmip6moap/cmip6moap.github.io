@@ -1,3 +1,3 @@
-# MOAP CMIP6 Hackathon website
+# Bristol – Met Office CMIP6 hackathon
 
-This is the repository for the public-facing MOAP CMIP6 hackathon website.
+This is the repository for the public-facing hackathon website.
