@@ -26,10 +26,12 @@ To contact us about the hackathon, please email our dedicated mailbox: <a href="
         </td>
         <td>
             <strong>Dr Dann M Mitchell</strong>
-            <a title="Profile &amp; contact" href="https://research-information.bris.ac.uk/en/persons/dann-m-mitchell"><i class="bi bi-person-lines-fill"></i></a>
-            <a title="Website" href="https://www.climatebristol.org/"><i class="bi bi-globe2"></i></a>
-            <a title="GitHub" href="https://github.com/dmm17/"><i class="bi bi-github"></i></a>
-            <a title="Twitter" href="https://twitter.com/ClimateDann"><i class="bi bi-twitter"></i></a>
+            <span class="profile-links">
+                <a title="Profile &amp; contact" href="https://research-information.bris.ac.uk/en/persons/dann-m-mitchell"><i class="bi bi-person-lines-fill"></i></a>
+                <a title="Website" href="https://www.climatebristol.org/"><i class="bi bi-globe2"></i></a>
+                <a title="GitHub" href="https://github.com/dmm17/"><i class="bi bi-github"></i></a>
+                <a title="Twitter" href="https://twitter.com/ClimateDann"><i class="bi bi-twitter"></i></a>
+            </span>
             <br>University of Bristol
             <br>Met Office Joint Chair in Climate Hazards, School of Geographical Sciences
         </td>
@@ -40,7 +42,9 @@ To contact us about the hackathon, please email our dedicated mailbox: <a href="
         </td>
         <td>
             <strong>Dr Emma Stone</strong>
-            <a title="Profile &amp; contact" href="https://www.bris.ac.uk/contact/person/getDetails?personKey=rn9rLhoJMlvvds3wexjHj5ep0mqebQ"><i class="bi bi-person-lines-fill"></i></a>
+            <span class="profile-links">
+                <a title="Profile &amp; contact" href="https://www.bris.ac.uk/contact/person/getDetails?personKey=rn9rLhoJMlvvds3wexjHj5ep0mqebQ"><i class="bi bi-person-lines-fill"></i></a>
+            </span>
             <br>University of Bristol
             <br>Met Office Academic Partner Project Manager, School of Geographical Sciences
         </td>
@@ -51,7 +55,9 @@ To contact us about the hackathon, please email our dedicated mailbox: <a href="
         </td>
         <td>
             <strong>Dr Richard Hall</strong>
-            <a title="Profile &amp; contact" href="https://research-information.bris.ac.uk/en/persons/richard-j-hall"><i class="bi bi-person-lines-fill"></i></a>
+            <span class="profile-links">
+                <a title="Profile &amp; contact" href="https://research-information.bris.ac.uk/en/persons/richard-j-hall"><i class="bi bi-person-lines-fill"></i></a>
+            </span>
             <br>University of Bristol
             <br>Research Associate, School of Geographical Sciences
         </td>
@@ -62,10 +68,12 @@ To contact us about the hackathon, please email our dedicated mailbox: <a href="
         </td>
         <td>
             <strong>Dr William Seviour</strong>
-            <a title="Profile &amp; contact" href="https://emps.exeter.ac.uk/mathematics/staff/ws359"><i class="bi bi-person-lines-fill"></i></a>
-            <a title="Website" href="https://wseviour.github.io/"><i class="bi bi-globe2"></i></a>
-            <a title="GitHub" href="https://github.com/wseviour/"><i class="bi bi-github"></i></a>
-            <a title="Twitter" href="https://twitter.com/WillSeviour"><i class="bi bi-twitter"></i></a>
+            <span class="profile-links">
+                <a title="Profile &amp; contact" href="https://emps.exeter.ac.uk/mathematics/staff/ws359"><i class="bi bi-person-lines-fill"></i></a>
+                <a title="Website" href="https://wseviour.github.io/"><i class="bi bi-globe2"></i></a>
+                <a title="GitHub" href="https://github.com/wseviour/"><i class="bi bi-github"></i></a>
+                <a title="Twitter" href="https://twitter.com/WillSeviour"><i class="bi bi-twitter"></i></a>
+            </span>
             <br>University of Exeter
             <br>Senior Lecturer, Department of Mathematics and Global Systems Institute 
         </td>
@@ -76,8 +84,10 @@ To contact us about the hackathon, please email our dedicated mailbox: <a href="
         </td>
         <td>
             <strong>Patricia Holley</strong>
-            <a title="Profile &amp; contact" href="https://www.bris.ac.uk/contact/person/getDetails?personKey=9tNdYV3TvjDC0p0L3d6TSvZ4ligZa3"><i class="bi bi-person-lines-fill"></i></a>
-            <a title="Website" href="https://www.bristol.ac.uk/golding/"><i class="bi bi-globe2"></i></a>
+            <span class="profile-links">
+                <a title="Profile &amp; contact" href="https://www.bris.ac.uk/contact/person/getDetails?personKey=9tNdYV3TvjDC0p0L3d6TSvZ4ligZa3"><i class="bi bi-person-lines-fill"></i></a>
+                <a title="Website" href="https://www.bristol.ac.uk/golding/"><i class="bi bi-globe2"></i></a>
+            </span>
             <br>University of Bristol
             <br>Institute Manager, Jean Golding Institute
         </td>
@@ -88,9 +98,11 @@ To contact us about the hackathon, please email our dedicated mailbox: <a href="
         </td>
         <td>
             <strong>James Thomas</strong>
-            <a title="Profile &amp; contact" href="https://www.bris.ac.uk/contact/person/getDetails?personKey=7PWOgX70s8UndjDH0UkfhsFGi763DB"><i class="bi bi-person-lines-fill"></i></a>
-            <a title="Website" href="https://jatonline.co.uk/"><i class="bi bi-globe2"></i></a>
-            <a title="GitHub" href="https://github.com/jatonline/"><i class="bi bi-github"></i></a>
+            <span class="profile-links">
+                <a title="Profile &amp; contact" href="https://www.bris.ac.uk/contact/person/getDetails?personKey=7PWOgX70s8UndjDH0UkfhsFGi763DB"><i class="bi bi-person-lines-fill"></i></a>
+                <a title="Website" href="https://jatonline.co.uk/"><i class="bi bi-globe2"></i></a>
+                <a title="GitHub" href="https://github.com/jatonline/"><i class="bi bi-github"></i></a>
+            </span>
             <br>University of Bristol
             <br>Data Science Specialist, Jean Golding Institute
         </td>

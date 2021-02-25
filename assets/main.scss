@@ -123,6 +123,18 @@ dl {
             border-radius: 50%;
         }
     }
+
+    .profile-links {
+        display: inline-block;
+
+        @include media-query($on-palm) {
+            display: block;
+            
+            & + br {
+                display: none;
+            }
+        }
+    }
 }
 
 .icon-list {
