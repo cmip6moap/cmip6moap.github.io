@@ -50,11 +50,15 @@ $header-brand-color: #bbdd11;
     display: block;
     background: no-repeat center left url(logo.png);
     background-size: 60px;
-    padding-left: 70px;
-    line-height: 80px;
+    padding: 15px 0 15px 70px;
+    line-height: 23px;
     font-weight: 500;
     margin-right: 10px;
     
+    small {
+        font-size: 59%;
+    }
+
     &, &:visited {
         color: #fff;
     }
@@ -66,10 +70,13 @@ $header-brand-color: #bbdd11;
     @include media-query($on-palm) {
         margin-right: 50px;
     }
+}
 
-    @include media-query(484px) {
-        line-height: 40px;
-    }
+h1.secondary {
+    font-size: 125%;
+    margin-top: -30px;
+    margin-bottom: 30px;
+    padding-left: 2px;
 }
 
 .lead {
@@ -141,8 +148,8 @@ dl {
     @extend .social-media-list;
 }
 
-.hide-mobile {
-    @include media-query($on-palm) {
+.hide-very-narrow {
+    @include media-query(420px) {
         display: none;
     }
 }

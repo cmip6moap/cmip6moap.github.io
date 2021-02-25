@@ -1,9 +1,12 @@
 ---
 layout: page
-title: Bristol – Met Office CMIP6 Data Hackathon
+title: CMIP6 Data Hackathon
 menu_title: Home
 menu_icon: house-door
 ---
+
+{:.secondary}
+# in association with the Met Office & University of Bristol
 
 <div class="aside">
     <h2><i class="bi bi-calendar3"></i> Event timeline</h2>
