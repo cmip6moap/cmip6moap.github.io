@@ -111,6 +111,20 @@ dl {
     }
 }
 
+.team-list {
+    td {
+        border: none;
+    } 
+
+    tr td:first-child {
+        width: 80px;
+
+        img {
+            border-radius: 50%;
+        }
+    }
+}
+
 .icon-list {
     @extend .social-media-list;
 }
