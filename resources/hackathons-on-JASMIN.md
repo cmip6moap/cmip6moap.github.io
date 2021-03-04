@@ -1,16 +1,18 @@
 ---
 title: Running a Hackathon on JASMIN
+date: 2021-03-04
 permalink: /resources/hackathons-on-jasmin/
+layout: post
 ---
 
-{:.secondary}
+<div class="lead" markdown="1">
 # A guide to running an event on the JASMIN data analysis facility
 
-{:.lead}
 This guide is based on the experiences of the University of Bristol in
 organising a CMIP6 Hackathon in association with the Met Office Academic
 Partners. It describes how we used the JASMIN platform, the decisions we took
 and why, and advice for others running similar events.
+</div>
 
 ## User accounts
 
