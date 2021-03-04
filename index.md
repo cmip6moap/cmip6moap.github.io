@@ -11,13 +11,13 @@ menu_icon: house-door
 <div class="aside">
     <h2><i class="bi bi-calendar3"></i> Event timeline</h2>
     <dl>
-        <dt>28 February 2021</dt>
-        <dd>Finalise proposed research topics</dd>
-
         <dt>3 March 2021</dt>
-        <dd>Applications open for participants</dd>
+        <dd>
+            Applications open for participants<br>
+            <a href="{% link registration.md %}" class="btn">Register now</a>
+        </dd>
 
-        <dt>(TBC)</dt>
+        <dt>31 March 2021</dt>
         <dd>Applications close</dd>
 
         <dt>2–4 June 2021</dt>
@@ -31,8 +31,11 @@ Institute](https://www.bristol.ac.uk/golding/) and [Cabot
 Institute](https://www.bristol.ac.uk/cabot/). Over the course of the event,
 teams of academic researchers from across the UK will work on research questions
 set by the MOAP partners related to earth-system science and [CMIP6
-data](https://esgf-index1.ceda.ac.uk/projects/cmip6-ceda/). We encourage
-contributions from early career researchers, including PhDs and Postdocs.
+data](https://esgf-index1.ceda.ac.uk/projects/cmip6-ceda/).
+
+Participation is open to **researchers from any UK academic institution**, and
+we encourage contributions from **early career researchers**, including PhDs and
+Postdocs.
 
 ## Logistics
 
@@ -45,7 +48,7 @@ data.
 
 ## Outputs
 
-By the end of the event, we  hope to have two or three core figures per research
+By the end of the event, we hope to have two or three core figures per research
 question, that show new insight into the field, using CMIP6 data. The figures
 will form the basis of material for [COP26](https://ukcop26.org/), and for
 peer-reviewed publication.
