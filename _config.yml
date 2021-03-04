@@ -3,12 +3,11 @@ menu_title: CMIP6 Data Hack<span class="hide-very-narrow">athon</span><br><small
 author: University of Bristol Jean Golding Institute & Cabot Institute, 
   Met Office Academic Partnership
 description:
-  The Met Office Academic Partnership is a cluster of research excellence that
-  brings together the Met Office and leaders in weather and climate science
-  (Universities of [Bristol](https://www.bristol.ac.uk),
-  [Exeter](https://www.exeter.ac.uk), [Leeds](https://www.leeds.ac.uk),
-  [Oxford](https://www.ox.ac.uk) and [Reading](https://www.reading.ac.uk) and
-  [UCL](https://www.ucl.ac.uk)). [More info](/about/#the-met-office-academic-partnership).
+  The MOAP CMIP6 Hackathon is a 3-day hackathon event, organised by the
+  University of Bristol’s Jean Golding Institute and Cabot Institute. Over the
+  course of the event, teams of academic researchers from across the UK will
+  work on research questions set by the MOAP partners related to earth-system
+  science and CMIP6 data.
 url: "https://cmip6moap.github.io"
 github_username: cmip6moap 
 theme: minima
