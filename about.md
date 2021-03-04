@@ -22,7 +22,7 @@ To contact us about the hackathon, please email our dedicated mailbox: <a href="
 <table class="team-list">
     <tr>
         <td>
-            <img alt="Dann Mitchell" src="https://avatars.githubusercontent.com/u/22296325?s=120&u=ba769c25ca87a84de1717713b2f3d5a30a16ea48&v=4">
+            <img alt="Dann Mitchell" src="{% link assets/team/Dann.jpg %}">
         </td>
         <td>
             <strong>Dr Dann M Mitchell</strong>
@@ -38,7 +38,7 @@ To contact us about the hackathon, please email our dedicated mailbox: <a href="
     </tr>
     <tr>
         <td>
-            <img alt="" src="https://avatars.githubusercontent.com/u/0?s=120&v=4">
+            <img alt="Dr Emma Stone" src="{% link assets/team/Emma.jpg %}">
         </td>
         <td>
             <strong>Dr Emma Stone</strong>
@@ -64,7 +64,7 @@ To contact us about the hackathon, please email our dedicated mailbox: <a href="
     </tr>
     <tr>
         <td>
-            <img alt="Dr William Seviour" src="https://avatars.githubusercontent.com/u/6266913?s=120&u=1622de99695f690eead222341a0b00e516331c7e&v=4">
+            <img alt="Dr William Seviour" src="{% link assets/team/Will.jpg %}">
         </td>
         <td>
             <strong>Dr William Seviour</strong>
@@ -80,7 +80,7 @@ To contact us about the hackathon, please email our dedicated mailbox: <a href="
     </tr>
     <tr>
         <td>
-            <img alt="" src="https://avatars.githubusercontent.com/u/0?s=120&v=4">
+            <img alt="Patricia Holley" src="{% link assets/team/Patty.jpg %}">
         </td>
         <td>
             <strong>Patricia Holley</strong>
@@ -94,7 +94,7 @@ To contact us about the hackathon, please email our dedicated mailbox: <a href="
     </tr>
     <tr>
         <td>
-            <img alt="James Thomas" src="https://avatars.githubusercontent.com/u/48878399?s=120&u=0c0b8d9b96e73d290da53147e8481b7494e8bb86&v=4">
+            <img alt="James Thomas" src="{% link assets/team/James.jpg %}">
         </td>
         <td>
             <strong>James Thomas</strong>
