@@ -8,7 +8,7 @@ permalink: /registration/
 {:.lead}
 Participation is open to researchers from any UK academic institution, and we
 encourage contributions from early career researchers, including PhDs and
-Postdocs. The closing date for applications is 31 March 2021.
+Postdocs. The closing date for applications is 15 April 2021.
 
 <div class="aside" markdown="1">
 This virtual event will require some commitment prior to and including the
@@ -16,29 +16,37 @@ Hackathon Event which will take part from 2–4 June 2021.
 
 [Complete the application form](https://forms.office.com/Pages/ResponsePage.aspx?id=MH_ksn3NTkql2rGM8aQVGw_pOzWxiVREohc9UmBS3JRURDc1NU04STBJVUVETERORDRCU1Y0NTFWWC4u){:.btn target="_blank"}
 
-The closing date for applications is 31 March 2021.
+The closing date for applications is 15 April 2021.
 </div>
 
-Researchers can sign up to [a range of topics]({% link projects.md %}), from ...
-to ... Teams will be led by researchers from a range of disciplines at the Met
-Office's partner universities, but participating researchers can be from any UK
-academic institution.
-
-The Hackathon will provide a prime opportunity for researchers to build on their
-academic networks and develop their research skills within a highly
-collaborative environment. In addition to showcasing key outputs at COP26 in
-Glasgow this November, we hope that the research produced could lead to future
-publications and collaborations.
-
 We are looking for enthusiastic and dedicated researchers who already have
-experience with analysing climate model data. Technical support and guidance
-will be provided but we expect all applicants to have prior knowledge of
-scientific programming.
+experience with analysing environmental data, and who are keen to experience
+working with different scientists and institutes, and perhaps on topics not
+immediately in their area. We also intend that early career researchers will
+build strong relationships with their peers from other institutes. 
 
-We will supply each researcher with a temporary hackathon account on the JASMIN
-data analysis facility, which will give then access to a Python 3 notebook
-environment and a variety of relevant datasets, for which we can provide
-technical support and guidance. Researchers (especially those with existing
-JASMIN accounts) may be able to use other programming languages and tools,
-however we will only be able to provide limited support for these.
+This virtual event will require approximately two hours commitment prior to the
+hackathon, and then three days commitment during the event, which will take part
+from **2–4 June 2021**. Technical support and guidance will be provided by the
+[Cabot Institute](https://www.bristol.ac.uk/cabot/) and [Jean Golding
+Institute](https://www.bristol.ac.uk/golding/) at the University of Bristol, but
+we expect all applicants to have prior knowledge of scientific programming.
 
+We will supply each researcher with a temporary hackathon account on the [JASMIN
+data analysis facility](https://www.jasmin.ac.uk/), which will give then access
+to a Python&nbsp;3 notebook environment and a variety of relevant datasets, for
+which we can provide technical support and guidance. Researchers (especially
+those with existing JASMIN accounts) may be able to use other programming
+languages and tools, however we will only be able to provide limited support for
+these.
+
+If you are interested in applying and having the opportunity to engage with
+like-minded scientists, then please [complete the application
+form](https://forms.office.com/Pages/ResponsePage.aspx?id=MH_ksn3NTkql2rGM8aQVGw_pOzWxiVREohc9UmBS3JRURDc1NU04STBJVUVETERORDRCU1Y0NTFWWC4u){:target="_blank"}.
+Please be aware that this event will only be open to those residing in UK
+academic institutions.
+
+The closing date for the applications is 15 April 2021. If you have any queries,
+or have any difficulties completing the registration form, please email our
+dedicated mailbox:
+[cmip6moap-hackathon@bristol.ac.uk](mailto:cmip6moap-hackathon@bristol.ac.uk).

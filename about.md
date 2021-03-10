@@ -5,12 +5,11 @@ menu_icon: globe2
 permalink: /about/
 ---
 
-The [MOAP]({% link about.md %}) CMIP6 Hackathon is a 3-day
-hackathon event, organised by the University of Bristol's [Jean Golding
-Institute](https://www.bristol.ac.uk/golding/) and [Cabot
-Institute](https://www.bristol.ac.uk/cabot/). Over the course of the event,
-teams of academic researchers from across the UK will work on research questions
-set by the MOAP partners related to earth-system science and [CMIP6
+The MOAP CMIP6 Hackathon is a 3-day hackathon event, organised by the University
+of Bristol's [Jean Golding Institute](https://www.bristol.ac.uk/golding/) and
+[Cabot Institute](https://www.bristol.ac.uk/cabot/). Over the course of the
+event, teams of academic researchers from across the UK will work on research
+questions set by the MOAP partners related to earth-system science and [CMIP6
 data](https://esgf-index1.ceda.ac.uk/projects/cmip6-ceda/). We encourage
 contributions from early career researchers, including PhDs and Postdocs.
 
