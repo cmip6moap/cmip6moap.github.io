@@ -5,9 +5,6 @@ menu_icon: briefcase
 permalink: /projects/
 ---
 
-{:.lead}
-This is a holding page for the hackathon projects.
-
 ### What is the transient sea level sensitivity in CMIP6 models?
 #### Jon Bamber (Bristol)
 {:.secondary}
