@@ -30,7 +30,7 @@ permalink: /projects/
 >   level rise, Ocean Sci., 17(1), 181-186, doi:10.5194/os-17-181-2021.
 
 ### How well do the CMIP6 models represent the tropical rainfall belt over Africa?
-#### Katy Sheen (Exeter) and David Macoleod (Bristol)
+#### Katy Sheen (Exeter) and David Macleod (Bristol)
 {:.secondary}
 
 > Movement of the tropical rain belt (TRB) is arguably the most important
@@ -320,7 +320,7 @@ permalink: /projects/
 >   Chang. 2, 851–870. doi:10.1002/wcc.147.
 
 ### Rainfall extremes and groundwater recharge in the tropics
-#### Dr Richard Taylor (UCL)
+#### Richard Taylor (UCL)
 {:.secondary}
 
 > As the planet warms, substantial uncertainty remains in where, when and how
