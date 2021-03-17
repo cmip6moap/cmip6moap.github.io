@@ -8,7 +8,7 @@ permalink: /registration/
 {:.lead}
 Participation is open to researchers from any UK academic institution, and we
 encourage contributions from early career researchers, including PhDs and
-Postdocs. The closing date for applications is 15 April 2021.
+Postdocs. The closing date for applications is 16 April 2021.
 
 <div class="aside" markdown="1">
 This virtual event will require some commitment prior to and including the
@@ -16,7 +16,7 @@ Hackathon Event which will take part from 2–4 June 2021.
 
 [Complete the application form](https://forms.office.com/Pages/ResponsePage.aspx?id=MH_ksn3NTkql2rGM8aQVGw_pOzWxiVREohc9UmBS3JRURDc1NU04STBJVUVETERORDRCU1Y0NTFWWC4u){:.btn target="_blank"}
 
-The closing date for applications is 15 April 2021.
+The closing date for applications is 16 April 2021.
 </div>
 
 We are looking for enthusiastic and dedicated researchers who already have
@@ -46,7 +46,7 @@ form](https://forms.office.com/Pages/ResponsePage.aspx?id=MH_ksn3NTkql2rGM8aQVGw
 Please be aware that this event will only be open to those residing in UK
 academic institutions.
 
-The closing date for the applications is 15 April 2021. If you have any queries,
+The closing date for the applications is 16 April 2021. If you have any queries,
 or have any difficulties completing the registration form, please email our
 dedicated mailbox:
 [cmip6moap-hackathon@bristol.ac.uk](mailto:cmip6moap-hackathon@bristol.ac.uk).
