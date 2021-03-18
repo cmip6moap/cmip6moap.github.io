@@ -16,7 +16,8 @@ contributions from early career researchers, including PhDs and Postdocs.
 ## The organising team
 
 {:.lead}
-To contact us about the hackathon, please email our dedicated mailbox: <a href="mailto:cmip6moap-hackathonevent2021@bristol.ac.uk">cmip6moap-hackathonevent2021@bristol.ac.uk</a>
+To contact us about the hackathon, please email our dedicated mailbox:
+<cmip6moap-hackathonevent2021@bristol.ac.uk>
 
 <table class="team-list">
     <tr>
