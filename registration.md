@@ -7,8 +7,10 @@ permalink: /registration/
 
 {:.lead}
 Participation is open to researchers from any UK academic institution, and we
-encourage contributions from early career researchers, including PhDs and
-Postdocs. The closing date for applications is 16 April 2021.
+encourage contributions from early career
+researchers[<sup>(?)</sup>][faq]{:title="What do we mean by an Early Career
+Researcher (ECR)?"}, including PhDs and Postdocs. The closing date for
+applications is 16 April 2021.
 
 <div class="aside" markdown="1">
 This virtual event will require some commitment prior to and including the
@@ -22,8 +24,10 @@ The closing date for applications is 16 April 2021.
 We are looking for enthusiastic and dedicated researchers who already have
 experience with analysing environmental data, and who are keen to experience
 working with different scientists and institutes, and perhaps on topics not
-immediately in their area. We also intend that early career researchers will
-build strong relationships with their peers from other institutes. 
+immediately in their area. We also intend that early career
+researchers[<sup>(?)</sup>][faq]{:title="What do we mean by an Early Career
+Researcher (ECR)?"}, will build strong relationships with their peers from other
+institutes. 
 
 This virtual event will require approximately two hours commitment prior to the
 hackathon, and then three days commitment during the event, which will take part
@@ -50,3 +54,5 @@ The closing date for the applications is 16 April 2021. If you have any queries,
 or have any difficulties completing the registration form, please email our
 dedicated mailbox:
 [cmip6moap-hackathon@bristol.ac.uk](mailto:cmip6moap-hackathon@bristol.ac.uk).
+
+[faq]: {% link faq.md %}

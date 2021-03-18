@@ -38,11 +38,14 @@ change to oceanography, biogeochemistry, and more. Teams will be led by senior
 academics from a range of disciplines at [the partner universities]({% link
 about.md %}#the-met-office-academic-partnership), but participating researchers
 can be from any UK academic institution. [This opportunity]({% link
-registration.md %}) is open to early career researchers.
+registration.md %}) is open to early career
+researchers[<sup>(?)</sup>][faq]{:title="What do we mean by an Early Career
+Researcher (ECR)?"}.
 
 Participation is open to **researchers from any UK academic institution**, and
-we encourage contributions from **early career researchers**, including PhDs and
-Postdocs.
+we encourage contributions from **early career
+researchers**[<sup>(?)</sup>][faq]{:title="What do we mean by an Early Career
+Researcher (ECR)?"}, including PhDs and Postdocs.
 
 ## Logistics
 
@@ -57,3 +60,5 @@ environmental science, which also provides a copy of the CMIP6 data.
 By the end of the event, we hope to have two or three core figures per research
 question, that show new insight into the field, using CMIP6 data. The figures
 will form the basis of material for COP26, and for peer-reviewed publication.
+
+[faq]: {% link faq.md %}
