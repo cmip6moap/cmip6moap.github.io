@@ -18,12 +18,25 @@ header_pages:
   - resources.md
   - about.md
 
+# (See default layout below)
+collections:
+  projects:
+    output: true
+    permalink: /:collection/:name/
+
 # Social media links
+# (See default layout below)
 twitter:
   card: summary_large_image
+
 defaults:
   - scope:
       path: ""
     values:
       image: /assets/advert.png
+  - scope:
+      path: ""
+      type: "projects"
+    values:
+      layout: "project"
       

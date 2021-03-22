@@ -1,0 +1,11 @@
+---
+layout: page
+---
+
+{{ content }}
+
+{% for project in site.projects %}
+    <h3><a href="{{ project.url }}">{{ project.title }}</a></h3>
+    <h4 class="secondary">{{ project.pis | join: ", " | escape }}</h4>
+    <blockquote>{{ project.content | truncatewords: 100 }}</blockquote>
+{% endfor %}
