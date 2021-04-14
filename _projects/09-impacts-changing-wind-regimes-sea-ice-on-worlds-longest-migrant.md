@@ -3,7 +3,7 @@ title: Impacts of changing wind regimes and sea ice on the world's longest migra
 pis:
   - Joanne Morten (Exeter)
   - Lucy Hawkes (Exeter)
-  - Will Thurston (Exeter)
+  - Will Thurston (Met Office, Exeter)
 ---
 
 Arctic terns are one of very few species in the world to spend considerable
