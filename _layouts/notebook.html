@@ -6,8 +6,16 @@ layout: page
 
 <iframe src="https://cmip6moap.github.io/project-template/notebooks/{{ page.notebook }}.html" class="notebook"></iframe>
 <script type="module">
-    document.querySelector('iframe.notebook').onload = function() {
-        this.style.height = this.contentWindow.document.body.offsetHeight + 'px';
+    let iframe = document.querySelector('iframe.notebook');
+    iframe.onload = function() {
+        this.style.height = this.contentWindow.document.documentElement.offsetHeight + 'px';
+    };
+    var timeout;
+    window.onresize = function() {
+        clearTimeout(timeout);
+        timeout = setTimeout(function() {
+            iframe.style.height = iframe.contentWindow.document.documentElement.offsetHeight + 'px';
+        }, 10);
     };
 </script>
    
