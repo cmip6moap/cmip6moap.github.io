@@ -1,0 +1,15 @@
+---
+layout: page
+---
+
+{{ content }}
+
+<iframe src="https://cmip6moap.github.io/project-template/notebooks/{{ page.notebook }}.html" class="notebook"></iframe>
+<script type="module">
+    document.querySelector('iframe.notebook').onload = function() {
+        this.style.height = this.contentWindow.document.body.offsetHeight + 'px';
+    };
+</script>
+   
+<a href="https://cmip6moap.github.io/project-template/notebooks/{{ page.notebook }}.html">Open in a new page</a>,
+<a href="https://github.com/cmip6moap/project-template/blob/main/notebooks/{{ page.notebook }}.ipynb">Open source notebook</a>
