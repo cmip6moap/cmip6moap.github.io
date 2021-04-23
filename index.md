@@ -14,7 +14,10 @@ menu_icon: house-door
         <dt>17 March 2021</dt>
         <dd>
             Applications open for participants<br>
+            {% comment %}
             <a href="{% link registration.md %}" class="btn">Register now</a>
+            {% endcomment %}
+            <a class="btn disabled">Registration has closed</a>
         </dd>
 
         <dt>16 April 2021</dt>
