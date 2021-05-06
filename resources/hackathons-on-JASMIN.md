@@ -1,8 +1,10 @@
 ---
 title: Running a Hackathon on JASMIN
 date: 2021-03-04
+authors:
+ - James Thomas, https://github.com/jatonline/
 permalink: /resources/hackathons-on-jasmin/
-layout: post
+layout: resource
 ---
 
 <div class="lead" markdown="1">

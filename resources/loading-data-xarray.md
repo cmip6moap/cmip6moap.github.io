@@ -1,5 +1,7 @@
 ---
 title: Loading data using xarray
+authors:
+ - James Thomas, https://github.com/jatonline/
 permalink: /resources/loading-data-xarray/
 layout: notebook
 notebook: ex2a_Loading_data_with_xarray
@@ -9,6 +11,4 @@ notebook: ex2a_Loading_data_with_xarray
 # Loading and processing CMIP6 data using xarray
 
 A quickstart guide to loading part of the CMIP6 dataset on JASMIN using the xarray library.
-
-<small>By: [James Thomas](https://github.com/jatonline/)</small>
 </div>
