@@ -29,7 +29,7 @@ event has finished, then we do ask that you create your own JASMIN account.
 In this guide we'll cover:
 
 * Table of contents
-{:toc toc_levels=2}
+{:toc}
 
 The JASMIN team have also created an excellent [workshop and associated training content](https://github.com/cedadev/jasmin-workshop)
 that give an excellent overview of JASMIN.
