@@ -5,12 +5,15 @@ menu_icon: journal-code
 permalink: /resources/
 ---
 
-#### [Running a Hackathon on JASMIN]({% link resources/hackathons-on-JASMIN.md %}) – a guide to running an event on the JASMIN data analysis facility
+## Getting set up
 
-> This guide is based on the experiences of the University of Bristol in
-organising a CMIP6 Hackathon in association with the Met Office Academic
-Partners. It describes how we used the JASMIN platform, the decisions we took
-and why, and advice for others running similar events.
+#### [Creating an account on JASMIN]({% link resources/creating-JASMIN-account.md %}) – a guide to creating an account on JASMIN for our hackathon
+
+> You can take part in the hackathon **whether or not** you have your own JASMIN
+account. This guide shows you how to make your own account, if you want one.
+
+
+## Tutorial notebooks
 
 #### [Setting up a python environment on JASMIN]({% link resources/create-environment.md %}) – a guide to setting up a custom python environment on JASMIN using conda
 
@@ -27,3 +30,13 @@ within JASMIN.
 
 > A quickstart guide to loading part of the CMIP6 dataset on JASMIN using the
 xarray library.
+
+
+## Help for organisers
+
+#### [Running a Hackathon on JASMIN]({% link resources/hackathons-on-JASMIN.md %}) – a guide to running an event on the JASMIN data analysis facility
+
+> This guide is based on the experiences of the University of Bristol in
+organising a CMIP6 Hackathon in association with the Met Office Academic
+Partners. It describes how we used the JASMIN platform, the decisions we took
+and why, and advice for others running similar events.
