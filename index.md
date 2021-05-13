@@ -14,10 +14,13 @@ menu_icon: house-door
         <dt>17 March 2021</dt>
         <dd>
             Applications open for participants<br>
-            {% comment %}
-            <a href="{% link registration.md %}" class="btn">Register now</a>
-            {% endcomment %}
-            <a class="btn disabled">Registration has closed</a>
+            {% if site.registration_status == 'open' %}
+                <a href="{% link registration.md %}" class="btn">Register now</a>
+            {% elsif site.registration_status == 'closed' %}
+                <a class="btn disabled">Registration has closed</a>
+            {% elsif site.registration_status == 'soon' %}
+                <a class="btn disabled">Registration opens soon</a>
+            {% endif %}
         </dd>
 
         <dt>16 April 2021</dt>

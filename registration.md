@@ -16,11 +16,13 @@ applications is 16 April 2021.
 This virtual event will require some commitment prior to and including the
 Hackathon Event which will take part from 2–4 June 2021.
 
-{% comment %}
-[Complete the application form](https://forms.office.com/Pages/ResponsePage.aspx?id=MH_ksn3NTkql2rGM8aQVGw_pOzWxiVREohc9UmBS3JRURDc1NU04STBJVUVETERORDRCU1Y0NTFWWC4u){:.btn target="_blank"}
-{% endcomment %}
-
-<a class="btn disabled">Registration has closed</a>
+{% if site.registration_status == 'open' %}
+  [Complete the application form](https://forms.office.com/Pages/ResponsePage.aspx?id=MH_ksn3NTkql2rGM8aQVGw_pOzWxiVREohc9UmBS3JRURDc1NU04STBJVUVETERORDRCU1Y0NTFWWC4u){:.btn target="_blank"}
+{% elsif site.registration_status == 'closed' %}
+  <a class="btn disabled">Registration has closed</a>
+{% elsif site.registration_status == 'soon' %}
+  <a class="btn disabled">Registration opens soon</a>
+{% endif %}
 
 The closing date for applications is 16 April 2021.
 </div>

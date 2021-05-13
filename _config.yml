@@ -18,6 +18,12 @@ header_pages:
   - resources.md
   - about.md
 
+# Open and close the registration form
+#   soon = Registration has not yet opened
+#   open = Registration form is open
+#   closed = Registration form is now closed
+registration_status: closed
+
 # (See default layout below)
 collections:
   projects:
@@ -40,6 +46,6 @@ defaults:
     values:
       layout: "project"
 
-# Make simple tables of contents
+# Simplify tables of contents
 kramdown:
-  toc_levels: "2"
+  toc_levels: "2,3"
