@@ -69,7 +69,9 @@ hackathons and events in the future.
 
 
 <script>
-    document.querySelectorAll('.template').forEach(iframe => 
-        iframe.contentDocument.querySelector('body').classList.add('embedded')
+    document.querySelectorAll('iframe.template').forEach(iframe =>
+        iframe.onload = function() {
+            this.contentDocument.querySelector('body').classList.add('embedded')
+        }
     );
 </script>
