@@ -3,7 +3,6 @@ title: Template forms, emails and resources
 date: 2021-05-13
 authors:
  - "[James Thomas](https://github.com/jatonline/) ([Jean Golding Institute](https://www.bristol.ac.uk/golding/))"
-permalink: /resources/templates/
 layout: resource
 ---
 

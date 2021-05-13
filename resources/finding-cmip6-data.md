@@ -2,7 +2,6 @@
 title: Finding CMIP6 data in the CEDA Archive
 authors:
  - "[James Thomas](https://github.com/jatonline/) ([Jean Golding Institute](https://www.bristol.ac.uk/golding/))"
-permalink: /resources/finding-cmip6-data/
 layout: notebook
 notebook: ex1_Finding_CMIP6_data
 ---

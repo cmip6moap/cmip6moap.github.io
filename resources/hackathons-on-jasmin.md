@@ -3,7 +3,6 @@ title: Running a Hackathon on JASMIN
 date: 2021-05-06
 authors:
  - "[James Thomas](https://github.com/jatonline/) ([Jean Golding Institute](https://www.bristol.ac.uk/golding/))"
-permalink: /resources/hackathons-on-jasmin/
 layout: resource
 ---
 

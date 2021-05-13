@@ -2,7 +2,6 @@
 title: About the Hackathon
 menu_title: About
 menu_icon: globe2
-permalink: /about/
 ---
 
 The MOAP CMIP6 Hackathon is a 3-day hackathon event, organised by the University

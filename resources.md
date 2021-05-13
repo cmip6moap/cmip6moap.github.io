@@ -2,12 +2,11 @@
 title: Hackathon resources
 menu_title: Resources
 menu_icon: journal-code
-permalink: /resources/
 ---
 
 ## Getting set up
 
-#### [Creating an account on JASMIN]({% link resources/creating-JASMIN-account.md %}) – a guide to creating an account on JASMIN for our hackathon
+#### [Creating an account on JASMIN]({% link resources/creating-jasmin-account.md %}) – a guide to creating an account on JASMIN for our hackathon
 
 > You can take part in the hackathon **whether or not** you have your own JASMIN
 account. This guide shows you how to make your own account, if you want one.
@@ -34,7 +33,7 @@ xarray library.
 
 ## Help for organisers
 
-#### [Running a Hackathon on JASMIN]({% link resources/hackathons-on-JASMIN.md %}) – a guide to running an event on the JASMIN data analysis facility
+#### [Running a Hackathon on JASMIN]({% link resources/hackathons-on-jasmin.md %}) – a guide to running an event on the JASMIN data analysis facility
 
 > This guide is based on the experiences of the University of Bristol in
 organising a CMIP6 Hackathon in association with the Met Office Academic

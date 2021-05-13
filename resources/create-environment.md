@@ -3,7 +3,6 @@ title: Setting up a python environment on JASMIN
 authors:
  - "[James Thomas](https://github.com/jatonline/) ([Jean Golding Institute](https://www.bristol.ac.uk/golding/))"
  - "[William Seviour](https://github.com/wseviour/)"
-permalink: /resources/create-environment/
 layout: notebook
 notebook: ex0_Create_environment
 ---

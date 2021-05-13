@@ -1,7 +1,6 @@
 ---
 title: Hackathon Code of Conduct
 menu_title: Code of Conduct
-permalink: /code-of-conduct/
 ---
 
 We are committed to providing a welcoming, friendly, supportive, safe and
