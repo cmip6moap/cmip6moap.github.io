@@ -17,15 +17,9 @@ layout: default
                 {% if page.authors %}
                     by
                     {% for author in page.authors %}
-                        {% assign author_info = author|split:',' %}
-                        {% assign name = author_info[0]|strip %}
-                        {% assign url = author_info[1]|strip %}
                         <span itemprop="author" itemscope itemtype="http://schema.org/Person">
-                            {% if url != '' %}
-                                <span class="p-author h-card" itemprop="name"><a href="{{ url }}">{{ name }}</a></span>{% if forloop.last == false %}, {% endif %}
-                            {% else %}
-                                <span class="p-author h-card" itemprop="name">{{ name }}</span>{% unless forloop.last %}, {% endunless %}
-                            {% endif %}
+                            <span class="p-author h-card" itemprop="name">{{ author | markdownify | remove: '<p>' | remove: '</p>' | strip_newlines }}</span>
+                            {%- unless forloop.last -%}, {%- endunless -%}
                         </span>
                     {% endfor %}
                 {% endif %}

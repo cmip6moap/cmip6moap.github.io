@@ -1,7 +1,7 @@
 ---
 title: Loading data using xarray
 authors:
- - James Thomas, https://github.com/jatonline/
+ - "[James Thomas](https://github.com/jatonline/) ([Jean Golding Institute](https://www.bristol.ac.uk/golding/))"
 permalink: /resources/loading-data-xarray/
 layout: notebook
 notebook: ex2a_Loading_data_with_xarray
