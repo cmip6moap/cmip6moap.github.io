@@ -190,6 +190,28 @@ iframe.notebook {
     margin-bottom: 30px;
 }
 
+iframe.template {
+    width: 100%;
+    max-width: 50rem;
+    height: 12rem;
+    max-height: 80vh;
+    border: 2px solid #1d1d1d;
+}
+
+.embedded {
+    header, footer, .post-meta {
+        display: none;
+    }
+
+    .page-content {
+        padding: 10px 0 0;
+    }
+
+    .post-content {
+        margin: 0;
+    }
+}
+
 .agenda {
     th:first-child {
         min-width: 100px;

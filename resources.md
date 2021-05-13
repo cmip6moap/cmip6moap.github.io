@@ -40,3 +40,8 @@ xarray library.
 organising a CMIP6 Hackathon in association with the Met Office Academic
 Partners. It describes how we used the JASMIN platform, the decisions we took
 and why, and advice for others running similar events.
+
+#### [Template forms, emails and resources]({% link resources/templates.md %}) – useful forms, emails and resources for organisers
+
+> We hope that these templates provide a useful starting point for similar
+hackathons and events in the future.
