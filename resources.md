@@ -6,6 +6,14 @@ menu_icon: journal-code
 
 ## Getting set up
 
+#### [Welcome pack]({% link resources/welcome-pack.md %})
+
+> ...
+
+#### [How the hackathon will run]({% link resources/running-the-hackathon.md %})
+
+> ...
+
 #### [Creating an account on JASMIN]({% link resources/creating-jasmin-account.md %}) – a guide to creating an account on JASMIN for our hackathon
 
 > You can take part in the hackathon **whether or not** you have your own JASMIN
@@ -39,6 +47,11 @@ xarray library.
 organising a CMIP6 Hackathon in association with the Met Office Academic
 Partners. It describes how we used the JASMIN platform, the decisions we took
 and why, and advice for others running similar events.
+
+#### [Event checklist]({% link resources/event-checklist.md %}) – a checklist for activities required in the run-up to a hackathon event
+
+> An at-a-glace guide to the key activities required when organising a
+hackathon, including links to relevant resources and templates.
 
 #### [Template forms, emails and resources]({% link resources/templates.md %}) – useful forms, emails and resources for organisers
 

@@ -118,20 +118,6 @@ However, remember that:
 * For promising projects, users could be issued with proper JASMIN accounts
   created at the end of the hackathon, to allow them to continue working
 
-## Timescales
-
-Date              | Actions
-----              | -------
-4 months before   | Engage with JASMIN, check dates do not clash with other events<br> Request research topic idea from researchers
-3 months before   | Finalise proposed research topics<br> Participant applications open
-2 months before	  | Deadline for participant applications
-1.5 months before | Finalise participants<br> Provide list of participants to JASMIN
-1 month before    | Provide welcome packs to participants<br> Finalise example notebooks / repositories
-2 weeks before    | Hold pre-hackathon meetings with project leads and participants
-1 week before     | Training accounts will be set-up by JASMIN<br> Provide drop-in sessions with participants, ensure they can connect
-Hackathon date    | 
-1 week after      | Remind participants to move data off system
-
 #### Notes
 
 [^1]: It is anticipated the code will be the most important thing, as the data

@@ -199,13 +199,13 @@ iframe.notebook {
 iframe.template {
     width: 100%;
     max-width: 50rem;
-    height: 12rem;
+    height: 18rem;
     max-height: 80vh;
     border: 2px solid #1d1d1d;
 }
 
 .embedded {
-    header, footer, .post-meta {
+    header, footer, .post-meta, #breadcrumbs {
         display: none;
     }
 
@@ -226,6 +226,31 @@ iframe.template {
 
     th:last-child {
         width: 40%;
+    }
+}
+
+.alt-table {
+    tr:nth-child(2n) {
+        background-color: transparent;
+    }
+
+    tbody:nth-child(2n) {
+        background-color: #f7f7f7;
+    }
+
+    td {
+        border-top: none;
+        border-bottom: none;
+    }
+
+    thead, tbody, tfoot {
+        border-top: 1px solid #e8e8e8;
+        border-bottom: 1px solid #e8e8e8;
+    }
+
+    th:first-child {
+        min-width: 100px;
+        width: 20%;
     }
 }
 

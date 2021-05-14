@@ -28,3 +28,6 @@ email at [...]
    our CMIP6 Data Hackathon Website  
     `[•]` Yes  
     `[ ]` No  
+
+6. Please confirm (if you have one) your JASMIN username and email address registered on the system  
+   `______________________________`  
