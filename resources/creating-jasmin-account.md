@@ -72,7 +72,7 @@ Please ensure you have been granted user-level access to:
 * [`xfer-sp`](https://accounts.jasmin.ac.uk/services/additional_services/xfer-sp/)
   – the ability to transfer data in and out of JASMIN if your institution does
     not provide a VPN for access to JASMIN
-* The CMIP6 Data Hackathon Group Workspace – ***to be confirmed***
+* [`cop26_hackathon_bristol`](https://accounts.jasmin.ac.uk/services/group_workspaces/cop26_hackathon_bristol)
   – the ability to access and write data within a shared storage area for the
     duration of the hackathon
 
@@ -118,11 +118,27 @@ Once you have an SSH key pair, you need to:
 
 ## Ensuring you have Jupyter Notebook access
 
-Check that you can login to the [JASMIN Notebook Service](https://notebooks.jasmin.ac.uk).
+Check that you can login to the [JASMIN Notebook Service](https://notebooks.jasmin.ac.uk),
+create a new notebook and execute some Python code.
 
 There will be a two-step verification process using your institution email
 address.
 
 ## Ensuring you have access to the hackathon Group Workspace
 
-***to be confirmed***
+Check that you can access the directory `/gws/pw/j05/cop26_hackathons/bristol`,
+either using the Notebook Service or a Scientific analysis server.
+
+For example, in a Jupyter Notebook you could execute a cell containing:
+<pre>
+!ls -al /gws/pw/j05/cop26_hackathons/bristol
+</pre>
+
+Or if connecting via SSH, you could type the following at the command line:
+<pre>
+cd /gws/pw/j05/cop26_hackathons/bristol
+ls -al
+</pre>
+
+Note that you will not be able to access the upper level `cop26_hackathons`
+directory, only the `bristol` directory beneath this.
