@@ -6,13 +6,12 @@ menu_icon: journal-code
 
 ## Getting set up
 
-#### [Welcome pack]({% link resources/welcome-pack.md %})
+#### [Participant guide]({% link resources/participant-guide.md %}) – how we will be running the hackathon
 
-> ...
+> This guide explains how the hackathon is being organised, from how we will be
+communicating, what activities we envisage you will undertake, how we suggest
+you access data and store your code/outputs.
 
-#### [How the hackathon will run]({% link resources/running-the-hackathon.md %})
-
-> ...
 
 #### [Creating an account on JASMIN]({% link resources/creating-jasmin-account.md %}) – a guide to creating an account on JASMIN for our hackathon
 

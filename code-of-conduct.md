@@ -4,10 +4,9 @@ menu_title: Code of Conduct
 ---
 
 We are committed to providing a welcoming, friendly, supportive, safe and
-professional environment for all participants at its meetings, regardless of
-age, background, belief, disability, ethnicity, race, religion, gender,
-identity, national origin, sexual orientation or other protected
-characteristics.
+professional environment for all participants our events, regardless of age,
+background, belief, disability, ethnicity, race, religion, gender, identity,
+national origin, sexual orientation or other protected characteristics.
 
 This code of conduct applies before, during and after our events, and in all
 physical and virtual spaces.

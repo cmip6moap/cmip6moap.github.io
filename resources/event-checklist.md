@@ -34,7 +34,7 @@ Date              | Action
 ---               | ---                  
 2 weeks before    | Finalise [example notebooks / repositories]({% link resources.md %})
                   | Ensure that [a Group Workspace has been created]({% link resources/creating-jasmin-account.md %}#ensuring-you-have-access-to-the-hackathon-group-workspace) for the hackathon
-                  | Hold pre-hackathon meetings with project leads (1 hour) and participants (1.5 hours), outlining [how the hackathon will run]({% link resources/running-the-hackathon.md %}) and the [hackathon agenda]({% link agenda.md %})
+                  | Hold pre-hackathon meetings with project leads (1 hour) and participants (1.5 hours), outlining [how the hackathon will run]({% link resources/participant-guide.md %}) and the [hackathon agenda]({% link agenda.md %})
                   | Ensure participants with their own JASMIN accounts have [requested access to the required services]({% link resources/creating-jasmin-account.md %}#getting-access-to-the-right-services)
                   | Provide list of participants to JASMIN (both those requiring a training account and those already with an account)
 ---               | ---                  
