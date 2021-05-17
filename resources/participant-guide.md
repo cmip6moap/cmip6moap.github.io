@@ -24,6 +24,8 @@ In this guide we'll cover:
 * Table of contents
 {:toc}
 
+You can also [view this guide as a presentation]({% link resources/participant-briefing.html %}).
+
 ## Professional standards
 
 We value the input of all our participants and want everyone to have an

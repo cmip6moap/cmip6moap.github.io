@@ -70,6 +70,11 @@ hackathons and events in the future.
 
 ## Communicating with participants
 
+### Participant briefing presentation
+
+<iframe class="template" src="{% link resources/participant-briefing.html %}"></iframe>
+[Open in a new page]({% link resources/participant-briefing.html %})
+
 ### Slack workspace suggested layout
 
 <iframe class="template" src="{% link resources/templates/slack-workspace.md %}"></iframe>
