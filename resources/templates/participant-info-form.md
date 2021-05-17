@@ -29,5 +29,8 @@ email at [...]
     `[•]` Yes  
     `[ ]` No  
 
-6. Please confirm (if you have one) your JASMIN username and email address registered on the system  
+6. Please confirm (if you have one) your GitHub username  
+   `______________________________`  
+
+7. Please confirm (if you have one) your JASMIN username and email address registered on the system  
    `______________________________`  
