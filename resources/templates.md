@@ -68,6 +68,19 @@ hackathons and events in the future.
 [Open in a new page]({% link resources/templates/project-lead-spreadsheet.md %})
 
 
+## Communicating with participants
+
+### Slack workspace suggested layout
+
+<iframe class="template" src="{% link resources/templates/slack-workspace.md %}"></iframe>
+[Open in a new page]({% link resources/templates/slack-workspace.md %})
+
+### Shared document suggested content
+
+<iframe class="template" src="{% link resources/templates/shared-documents.md %}"></iframe>
+[Open in a new page]({% link resources/templates/shared-documents.md %})
+
+
 <script>
     document.querySelectorAll('iframe.template').forEach(iframe =>
         iframe.onload = function() {

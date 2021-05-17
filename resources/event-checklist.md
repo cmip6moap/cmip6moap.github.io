@@ -35,13 +35,19 @@ Date              | Action
 2 weeks before    | Finalise [example notebooks / repositories]({% link resources.md %})
                   | Ensure that [a Group Workspace has been created]({% link resources/creating-jasmin-account.md %}#ensuring-you-have-access-to-the-hackathon-group-workspace) for the hackathon
                   | Hold pre-hackathon meetings with project leads (1 hour) and participants (1.5 hours), outlining [how the hackathon will run]({% link resources/participant-guide.md %}) and the [hackathon agenda]({% link agenda.md %})
+                  | Create recurring Zoom meeting for hackathon, with pre-allocated breakout rooms for projects, ensuring participants are muted on entry, can connect without host present and can move freely between breakout rooms
+                  | Create [Slack workspace]({% link resources/templates/slack-workspace.md %}), with channels for each project
+                  | Create GitHub repository for each project, using [template repository](https://github.com/cmip6moap/project-template)
+                  | Create [shared documents]({% link resources/templates/shared-documents.md %}) for online collaboration
                   | Ensure participants with their own JASMIN accounts have [requested access to the required services]({% link resources/creating-jasmin-account.md %}#getting-access-to-the-right-services)
                   | Provide list of participants to JASMIN (both those requiring a training account and those already with an account)
+                  | Add GitHub usernames of participants to their project repositories
 ---               | ---                  
 1 week before     | Training accounts set-up by JASMIN
-                  | Send [welcome packs]({% link resources/welcome-pack.md %}) to participants
+                  | Send [participant guide]({% link resources/participant-guide.md %}) to project leads and participants
                   | Provide drop-in sessions with participants, ensuring they can connect
+                  | Check there are contingencies in case of connection issues, including alternate host on Zoom
 ---               | ---                  
-Hackathon date    | 
+Hackathon date    | Monitor #help channel on Slack and shared mailbox for queries or code of conduct issues
 ---               | ---                  
 1 week after      | Remind participants to move data off system
