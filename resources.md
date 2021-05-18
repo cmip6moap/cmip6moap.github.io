@@ -38,6 +38,13 @@ within JASMIN.
 xarray library.
 
 
+## Briefing presentations
+
+#### [Project lead briefing]({% link resources/project-lead-briefing.html %})
+
+#### [Participant briefing]({% link resources/participant-briefing.html %})
+
+
 ## Help for organisers
 
 #### [Running a Hackathon on JASMIN]({% link resources/hackathons-on-jasmin.md %}) – a guide to running an event on the JASMIN data analysis facility

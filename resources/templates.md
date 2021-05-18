@@ -70,6 +70,11 @@ hackathons and events in the future.
 
 ## Communicating with participants
 
+### Project lead briefing presentation
+
+<iframe class="template" src="{% link resources/project-lead-briefing.html %}"></iframe>
+[Open in a new page]({% link resources/project-lead-briefing.html %})
+
 ### Participant briefing presentation
 
 <iframe class="template" src="{% link resources/participant-briefing.html %}"></iframe>
@@ -85,6 +90,10 @@ hackathons and events in the future.
 <iframe class="template" src="{% link resources/templates/shared-documents.md %}"></iframe>
 [Open in a new page]({% link resources/templates/shared-documents.md %})
 
+### Hackathon presentation
+
+<iframe class="template" src="{% link resources/agenda-slides.html %}"></iframe>
+[Open in a new page]({% link resources/agenda-slides.html %})
 
 <script>
     document.querySelectorAll('iframe.template').forEach(iframe =>
