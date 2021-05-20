@@ -39,12 +39,12 @@ Date              | Action
                   | Create [Slack workspace]({% link resources/templates/slack-workspace.md %}), with channels for each project
                   | Create GitHub repository for each project, using [template repository](https://github.com/cmip6moap/project-template)
                   | Create [shared documents]({% link resources/templates/shared-documents.md %}) for online collaboration
+                  | Send [project allocations, Slack invite]({% link resources/templates/project-email.md %}) and [participant guide]({% link resources/participant-guide.md %}) to project leads and participants
                   | Ensure participants with their own JASMIN accounts have [requested access to the required services]({% link resources/creating-jasmin-account.md %}#getting-access-to-the-right-services)
                   | Provide list of participants to JASMIN (both those requiring a training account and those already with an account)
                   | Add GitHub usernames of participants to their project repositories
 ---               | ---                  
 1 week before     | Training accounts set-up by JASMIN
-                  | Send [participant guide]({% link resources/participant-guide.md %}) to project leads and participants
                   | Provide drop-in sessions with participants, ensuring they can connect
                   | Check there are contingencies in case of connection issues, including alternate host on Zoom
 ---               | ---                  

@@ -1,6 +1,6 @@
 ---
 title: Template forms, emails and resources
-date: 2021-05-13
+date: 2021-05-20
 authors:
  - "[James Thomas](https://github.com/jatonline/) ([Jean Golding Institute](https://www.bristol.ac.uk/golding/))"
 layout: resource
@@ -79,6 +79,11 @@ hackathons and events in the future.
 
 <iframe class="template" src="{% link resources/participant-briefing.html %}"></iframe>
 [Open in a new page]({% link resources/participant-briefing.html %})
+
+### Participant project allocation & Slack invite email
+
+<iframe class="template" src="{% link resources/templates/project-email.md %}"></iframe>
+[Open in a new page]({% link resources/templates/project-email.md %})
 
 ### Slack workspace suggested layout
 
