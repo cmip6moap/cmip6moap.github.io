@@ -79,6 +79,19 @@ To contact us about the hackathon, please email our dedicated mailbox:
     </tr>
     <tr>
         <td>
+            <img alt="" src="https://avatars.githubusercontent.com/u/0?s=120&v=4">
+        </td>
+        <td>
+            <strong>Dr Fai Fung</strong>
+            <span class="profile-links">
+                <a title="Profile &amp; contact" href="https://www.bris.ac.uk/contact/person/getDetails?personKey=0vboJ1W3wScRsQKvjFkuf1rwl5S0Zx"><i class="bi bi-person-lines-fill"></i></a>
+            </span>
+            <br>UKCP Climate Services Manager, Met Office
+            <br>Senior Research Fellow, University of Bristol
+        </td>
+    </tr>
+    <tr>
+        <td>
             <img alt="Patricia Holley" src="{% link assets/team/Patty.jpg %}">
         </td>
         <td>
