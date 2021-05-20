@@ -63,3 +63,8 @@ hackathon, including links to relevant resources and templates.
 
 > We hope that these templates provide a useful starting point for similar
 hackathons and events in the future.
+
+#### [Assign applicants to projects]({% link resources/assign-applicants-to-projects.md %}) – semi-automatically assign participants to project teams
+
+> Tool to try to give applicants one of their first-choice projects, by randomly
+assigning them a project, weighted by number of places remaining.
