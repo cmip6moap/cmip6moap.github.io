@@ -2,6 +2,8 @@
 title: What is the transient sea level sensitivity in CMIP6 models?
 pis:
   - Jon Bamber (Bristol)
+  - Aslak Grinsted (Copenhagen)
+  - Jens Hesselbjerg Christensen (Copenhagen)
 ---
 
 Many will be familiar with the concept of transient climate sensitivity: what is

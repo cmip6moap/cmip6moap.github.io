@@ -3,6 +3,7 @@ title: How well do the CMIP6 models represent the tropical rainfall belt over Af
 pis: 
   - Katy Sheen (Exeter)
   - David Macleod (Bristol)
+  - Rachel James (Bristol)
 ---
 
 Movement of the tropical rain belt (TRB) is arguably the most important
