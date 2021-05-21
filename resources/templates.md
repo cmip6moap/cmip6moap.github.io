@@ -26,10 +26,17 @@ hackathons and events in the future.
 <iframe class="template" src="{% link resources/templates/advert-email.md %}"></iframe>
 [Open in a new page]({% link resources/templates/advert-email.md %})
 
-### Social media sharing image
+### Social media sharing images
+
+#### Registration stage
+
+![Social media sharing image for the CMIP6 Data Hackathon](/assets/advert-registration.png)  
+[Open PNG version](/assets/advert-registration.png), [Open SVG version](/assets/advert-registration.svg)
+
+#### Event stage
 
 ![Social media sharing image for the CMIP6 Data Hackathon](/assets/advert.png)  
-[Open in a new page](/assets/advert.png)
+[Open PNG version](/assets/advert.png), [Open SVG version](/assets/advert.svg)
 
 
 ## Getting applications to the hackathon
