@@ -54,9 +54,9 @@ indicating that you (or the members of your team for whom you are committing),
 are happy with this.
 
 Other than cloning a public repo, most of the commands you will need to run to
-work with Git and GitHub will require you to use the command line, and so you
-for JASMIN you will need to connect via SSH. The default text editor on JASMIN
-is Vim, so you may need to take a look at this [Vim command reference](https://vim.rtorr.com/).
+work with Git and GitHub will require you to use the command line – for JASMIN
+you will need to connect via SSH. The default text editor on JASMIN is Vim, so
+you may need to take a look at this [Vim command reference](https://vim.rtorr.com/).
 
 ## How to work collaboratively
 
@@ -203,7 +203,7 @@ Command | Explanation
 `git status` | Tell git to print the status of the files in the version controlled directory
 `git diff` | Tell git to show the differences between the files in the working directory and the last saved version in the git repository. This will show the differences for all tracked files. Use `git diff FILENAME` to limit to only the file `FILENAME`
 `git add` | Tell git to start monitoring (tracking) the versions of a new file, for example `git add README.md` will tell git to track `README.md`
-`git commit -a` | Tell git to save a new snapshot version of all of the tracked files in the directory. The `-a` means "all files". You can commit new versions of individual files if you want, but this is not recommended.
+`git commit -a` | Tell git to save a new snapshot version of all of the tracked files in the directory. The `-a` means "all tracked files". You can commit new versions of individual files if you want, but this is not recommended.
 `git log` | Print a log of the versions in the repository. Use `git log -n N` to limit to the last `N` versions. You may need to use `q` to exit from the text viewer if there are a lot of versions to print.
 `git push` | Push versions that are saved in the local repository (.git folder) so they are backed up to a remote repository (.git folder)
 `git pull` | Pull changes from the remote repository into the local repository. This is the opposite of git push
