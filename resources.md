@@ -12,11 +12,16 @@ menu_icon: journal-code
 communicating, what activities we envisage you will undertake, how we suggest
 you access data and store your code/outputs.
 
-
 #### [Creating an account on JASMIN]({% link resources/creating-jasmin-account.md %}) – a guide to creating an account on JASMIN for our hackathon
 
 > You can take part in the hackathon **whether or not** you have your own JASMIN
 account. This guide shows you how to make your own account, if you want one.
+
+#### [Using Git during the hackathon]({% link resources/using-git-during-the-hackathon.md %}) – a guide using Git to collaborate during the hackathon
+
+> This guide gives some suggestions on how to use your project's GitHub
+repository during the hackathon, with some links to training material for Git
+and GitHub, if you’d like to learn more.
 
 
 ## Tutorial notebooks
