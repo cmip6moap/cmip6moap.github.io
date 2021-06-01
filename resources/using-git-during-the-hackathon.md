@@ -12,6 +12,17 @@ layout: resource
 This guide gives some suggestions on how to use your project's GitHub repository
 during the hackathon, with some links to training material for Git and GitHub,
 if you'd like to learn more.
+
+In summary:
+* Each project has a [GitHub repo](https://github.com/cmip6moap) – use this for
+  code, outputs and small amounts of data
+* Each project also has a directory in our shared Group Workspace:
+  `/gws/pw/j05/cop26_hackathons/bristol`
+* Don't worry if this is new to you!
+* Working as a team, decide what you're going to use and who will be responsible
+  for saving outputs
+* We ask each project to structure their work clearly, and give some guidance
+  below on how you might do that
 </div>
 
 ## Overview
