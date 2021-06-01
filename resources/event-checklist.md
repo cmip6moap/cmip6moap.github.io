@@ -48,6 +48,9 @@ Date              | Action
                   | Provide drop-in sessions with participants, ensuring they can connect
                   | Check there are contingencies in case of connection issues, including alternate host on Zoom
 ---               | ---                  
-Hackathon date    | Monitor #help channel on Slack and shared mailbox for queries or code of conduct issues
+Hackathon date    | Make sure the Zoom meeting can be joined without going via the waiting room
+                  | Ensure the code of conduct is signposted at the start
+                  | Monitor **#help channel** on Slack and shared mailbox for queries or code of conduct issues
+                  | Made sure the feedback form is sent round at the end
 ---               | ---                  
 1 week after      | Remind participants to move data off system
