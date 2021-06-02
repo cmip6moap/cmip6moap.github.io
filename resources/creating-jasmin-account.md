@@ -86,7 +86,7 @@ If you're not sure how to do this, consult the [JASMIN documentation on SSH key 
 
 Once you have an SSH key pair, you need to:
 
-* [Enter your SSH *public* key](https://accounts.jasmin.ac.uk/account/profile/update_ssh_key/)
+* [Enter your SSH *public* key](https://accounts.jasmin.ac.uk/account/profile/)
   into the JASMIN Accounts Portal
 * [Check that you can login](https://help.jasmin.ac.uk/article/187-login) to one
   of the scientific analysis servers using *SSH agent-forwarding*
