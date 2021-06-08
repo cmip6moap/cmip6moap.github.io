@@ -19,7 +19,7 @@ latest developments in space-enabled data.
 </li>
 <li class="video" markdown="1">
 
-{% include youtube.html video="lIanN0DI9R8" title="Thinking in Spreadsheets" %}
+{% include youtube.html video="lIanN0DI9R8" title="Best practices for reproducible research – Thinking in Spreadsheets" %}
 
 In this talk given at the CMIP6 Data Hackathon 2021, Jean Golding Institute
 data scientist **James Thomas** gives an overview of some of the best
