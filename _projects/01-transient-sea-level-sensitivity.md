@@ -1,9 +1,19 @@
 ---
+number: 1
 title: What is the transient sea level sensitivity in CMIP6 models?
 pis:
-  - Jon Bamber (Bristol)
-  - Aslak Grinsted (Copenhagen)
-  - Jens Hesselbjerg Christensen (Copenhagen)
+  - Jon Bamber (University of Bristol)
+  - Aslak Grinsted (University of Copenhagen)
+  - Jens Hesselbjerg Christensen (University of Copenhagen)
+contributors:
+  - Isabel Nias (University of Liverpool)
+  - Jennifer Weeks (Met Office)
+  - Kelvin Ng (University of Birmingham)
+  - Rory Bingham (University of Bristol)
+  - Sammie Buzzard (Cardiff University)
+github: cmip6moap/project01
+video_time: 2276
+video_thumbnail: project01
 ---
 
 Many will be familiar with the concept of transient climate sensitivity: what is

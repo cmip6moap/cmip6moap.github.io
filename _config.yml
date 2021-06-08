@@ -12,9 +12,10 @@ url: "https://cmip6moap.github.io"
 github_username: cmip6moap 
 theme: minima
 header_pages:
-  - registration.md
+  #- registration.md
+  #- agenda.md
   - projects.md
-  - agenda.md
+  - videos-slides.md
   - resources.md
   - about.md
 

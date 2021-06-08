@@ -1,8 +1,25 @@
 ---
+number: 3
 title: Characterising the marine carbon cycle in CMIP6
 pis:
-  - Oliver Andrews (Bristol)
-  - Jamie Wilson (Bristol)
+  - Oliver Andrews (University of Bristol)
+  - Jamie Wilson (University of Bristol)
+contributors:
+  - Alan Kennedy-Asser
+  - Anna Katavouta
+  - Ben Blackledge
+  - Chelsey Baker
+  - Emily Vosper
+  - Francisco de Melo Virissimo
+  - Fraser Goldsworth
+  - Katie Sieradzan
+  - Markus Adloff
+  - Qian Liu
+  - Ros Death
+  - Rui Ying
+github: cmip6moap/project03
+video_time: 1051
+video_thumbnail: project03
 ---
 
 Recent ocean heat uptake has been unprecedented, with the last five years being

@@ -1,8 +1,12 @@
 ---
+number: 5
 title: The atmospheric response to sea-ice loss in the PAMIP experiments and its sensitivity to model biases
 pis:
   - James Screen (Exeter)
   - Stephen Thompson (Exeter)
+github: cmip6moap/project05
+video_time: 8
+video_thumbnail: project05
 ---
 
 Polar amplification, the phenomenon that external radiative forcing produces a

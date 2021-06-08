@@ -1,9 +1,24 @@
 ---
+number: 2
 title: How well do the CMIP6 models represent the tropical rainfall belt over Africa?
 pis: 
-  - Katy Sheen (Exeter)
-  - David Macleod (Bristol)
-  - Rachel James (Bristol)
+  - Katy Sheen (University of Exeter)
+  - David Macleod (University of Bristol)
+  - Rachel James (University of Bristol)
+contributors:
+  - Bethan Harris
+  - Brian Lo
+  - Erin Walker
+  - James Fulton
+  - Jess Baker
+  - Michael Baidu
+  - Natalie Lord
+  - Peter Watson
+  - Valerie Le Guennec
+  - Xiaorong Li
+github: cmip6moap/project02
+video_time: 1559
+video_thumbnail: project02
 ---
 
 Movement of the tropical rain belt (TRB) is arguably the most important

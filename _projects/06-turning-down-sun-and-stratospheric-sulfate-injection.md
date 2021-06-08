@@ -1,7 +1,16 @@
 ---
+number: 6
 title: Differences between 'turning down the sun' and stratospheric sulfate injection
 pis:
-  - Matthew Henry (Exeter)
+  - Matthew Henry (University of Exeter)
+contributors:
+  - Carla Roesch
+  - Emily Ball
+  - Eunice Lo
+  - Mira Adhikari
+github: cmip6moap/project06
+video_time: 378
+video_thumbnail: project06
 ---
 
 Solar geoengineering refers to the idea of deliberately increasing Earth's

@@ -41,8 +41,7 @@ Time (BST)    | Activity | Where to go
 Time (BST)    | Activity | Where to go
 ------------- | -------- | -----------
 09:15 – 09:30 | Zoom meeting opens for informal networking | Zoom main room
-09:30 – 10:00 | **Working toward COP26**<br>Jason Lowe (Head of Climate Services at the Met Office) | Zoom main room
-10:00 – 11:55 | **Breakout groups**<br>Continue working on projects | Zoom breakout rooms
+09:30 – 11:55 | **Breakout groups**<br>Continue working on projects | Zoom breakout rooms
 12:00 – 12:30 | **Yoga with Cara**<br>Take some time away from your keyboard | Yoga Zoom meeting
 12:30 – 13:30 | Lunch break |
 13:30 – 15:30 | **Breakout groups**<br>Final steps and ensure code/data/outputs are saved | Zoom breakout rooms

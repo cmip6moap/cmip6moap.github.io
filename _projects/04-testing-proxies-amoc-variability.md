@@ -1,7 +1,11 @@
 ---
+number: 4
 title: Testing proxies of AMOC variability in CMIP6
 pis:
   - Rory Bingham (Bristol)
+github: cmip6moap/project04
+video_time: 601
+video_thumbnail: project04
 ---
 
 The Atlantic meridional overturning circulation (AMOC) plays an important role

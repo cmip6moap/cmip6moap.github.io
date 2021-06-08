@@ -119,6 +119,11 @@ h1.secondary {
     }
 }
 
+.authors {
+    font-size: inherit !important;
+    padding: 0.35*$spacing-unit 0.75*$spacing-unit;
+}
+
 dl {
     dt {
         margin-top: 0.5*$spacing-unit;
@@ -253,5 +258,69 @@ iframe.template {
         width: 20%;
     }
 }
+
+ul.grid {
+    margin-left: 0;
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: $spacing-unit;
+    
+    @include media-query($on-palm) {
+        grid-template-columns: repeat(1, minmax(0, 1fr));
+    }
+
+    li {
+        list-style: none;
+        padding: 0.5*$spacing-unit 0.75*$spacing-unit;
+    }
+
+    .project {
+        background: #f0f0f0;
+        
+        h3 a {
+            display: block;
+        }
+    }
+    
+    .resource-block {
+        background: #f0f0f0;
+    }
+}
+
+.video {
+    img {
+        border: 2px solid #000000;
+        margin-bottom: 0.25*$spacing-unit;
+    }
+
+    &.video-project .video-container {
+        max-width: 50%;
+        margin-bottom: 0.75*$spacing-unit;
+
+        @include media-query($on-palm) {
+            max-width: 100%;
+        }
+    }
+
+    .video-container {
+        position: relative;
+
+        .play-button {
+            position: absolute;
+            left: 50%;
+            top: 50%;
+            transform: translate(-50%, -50%);
+            background: #fff;
+            color: #000;
+            line-height: 0.6;
+            font-size: 60px;
+            
+            &:hover {
+                color: #777;
+            }
+        }
+    }
+}
+
 
 @import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.3.0/font/bootstrap-icons.css");

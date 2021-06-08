@@ -1,8 +1,12 @@
 ---
+number: 7
 title: Uncertainty in sea-ice-cloud feedbacks across the CMIP6 ensemble
 pis:
   - Jo Browse (Exeter)
   - Tony Payne (Bristol)
+github: cmip6moap/project07
+video_time: 812
+video_thumbnail: project07
 ---
 
 To what extent will constraining sea-ice-cloud feedbacks reduce uncertainty in

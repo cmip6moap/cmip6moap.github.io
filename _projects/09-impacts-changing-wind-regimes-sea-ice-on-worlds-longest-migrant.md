@@ -1,9 +1,21 @@
 ---
+number: 9
 title: Impacts of changing wind regimes and sea ice on the world's longest migrant
 pis:
-  - Joanne Morten (Exeter)
-  - Lucy Hawkes (Exeter)
-  - Will Thurston (Met Office, Exeter)
+  - Joanne Morten (University of Exeter)
+  - Lucy Hawkes (University of Exeter)
+  - Will Thurston (Met Office, University of Exeter)
+contributors:
+  - Aleksandra Zaforemska (Newcastle University)
+  - Daniel Williams (University of Exeter)
+  - Isolde Glissenaar (University of Bristol)
+  - Ned Williams (University of Exeter)
+  - Noam Vogt-Vincent (University of Oxford)
+  - Pearce Buchanan (University of Liverpool)
+  - Shannon Williams (University of Bristol)
+github: cmip6moap/project09
+video_time: 2060
+video_thumbnail: project09
 ---
 
 Arctic terns are one of very few species in the world to spend considerable

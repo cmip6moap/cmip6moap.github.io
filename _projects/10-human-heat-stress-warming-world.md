@@ -1,7 +1,22 @@
 ---
+number: 10
 title: Human heat stress in a warming world
 pis:
   - Chris Smith (Leeds)
+contributors:
+  - Charles H. Simpson
+  - Chloe Brimicombe
+  - Claudia Di Napoli
+  - Gibran Hemani
+  - Laila Gohar
+  - Lauren Burton
+  - Michael Taylor
+  - Rachel Tunnicliffe
+  - Robin Lamboll
+  - Seb Cole
+github: cmip6moap/project10
+video_time: 2587
+video_thumbnail: project10
 ---
 
 Climate projections tend to agree that extremes of heat over the populated land
@@ -18,7 +33,7 @@ others from Reading could be invited to collaborate on this project as part of
 the MOAP group.
 
 The work would proceed as follows:
-1. obtaining 3-hourly CMIP6 data from participating CMIP6 models. The
+1. Obtaining 3-hourly CMIP6 data from participating CMIP6 models. The
    following variables are required on 3-hour resolution: tas, hurs, rlds,
    rlus, rsus, rsds, plus one of rsdsdiff or rsdt, and ideally (vas and uas)
    or sfcWind
