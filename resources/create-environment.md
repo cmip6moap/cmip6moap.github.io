@@ -22,4 +22,6 @@ In summary:
   Service, then this will be available to all your notebooks
 * You can also create your own environment if you need specific versions of
   packages
+
+See also our [environment setup scripts]({% link resources/environment.md %}).
 </div>

@@ -68,6 +68,12 @@ and why, and advice for others running similar events.
 An at-a-glace guide to the key activities required when organising a
 hackathon, including links to relevant resources and templates.
 
+#### [Environment setup scripts]({% link resources/environment.md %}) – help participants use the Group Workspace
+
+Some scripts to help with using the hackathon's Group Workspace on JASMIN, and
+a conda environment with pre-installed packages (see also our
+[example notebook]({% link resources/create-environment.md %})).
+
 </li>
 <li class="resource-block" markdown="1">
 
@@ -78,15 +84,15 @@ hackathon, including links to relevant resources and templates.
 We hope that these templates provide a useful starting point for similar
 hackathons and events in the future.
 
-#### [Archived pages]({% link resources/archive.md %}) – links to pages removed from our navigation bar
-
-Pages such as the registration page and agenda, although no longer displayed,
-may be useful to organisers of similar events.
-
 #### [Assign applicants to projects]({% link resources/assign-applicants-to-projects.md %}) – semi-automatically assign participants to project teams
 
 Tool to try to give applicants one of their first-choice projects, by randomly
 assigning them a project, weighted by number of places remaining.
+
+#### [Archived pages]({% link resources/archive.md %}) – links to pages removed from our navigation bar
+
+Pages such as the registration page and agenda, although no longer displayed,
+may be useful to organisers of similar events.
 
 </li>
 </ul>
