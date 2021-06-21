@@ -75,7 +75,7 @@ hackathons and events in the future.
 [Open in a new page]({% link resources/templates/project-lead-spreadsheet.md %})
 
 
-## Communicating with participants
+## Before the hackathon
 
 ### Project lead briefing presentation
 
@@ -92,6 +92,14 @@ hackathons and events in the future.
 <iframe class="template" src="{% link resources/templates/project-email.md %}"></iframe>
 [Open in a new page]({% link resources/templates/project-email.md %})
 
+### Drop-in sessions email
+
+<iframe class="template" src="{% link resources/templates/drop-in-sessions-email.md %}"></iframe>
+[Open in a new page]({% link resources/templates/drop-in-sessions-email.md %})
+
+
+## During the hackathon
+
 ### Slack workspace suggested layout
 
 <iframe class="template" src="{% link resources/templates/slack-workspace.md %}"></iframe>
@@ -106,6 +114,15 @@ hackathons and events in the future.
 
 <iframe class="template" src="{% link resources/agenda-slides.html %}"></iframe>
 [Open in a new page]({% link resources/agenda-slides.html %})
+
+
+## After the hackathon
+
+### Feedback form
+
+<iframe class="template" src="{% link resources/templates/feedback-form.md %}"></iframe>
+[Open in a new page]({% link resources/templates/feedback-form.md %})
+
 
 <script>
     document.querySelectorAll('iframe.template').forEach(iframe =>
